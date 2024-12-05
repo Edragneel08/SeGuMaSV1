@@ -1,0 +1,11 @@
+WEB\guardServlet.class
+WEB\loginServlet.class
+DAO\StaffDAO.class
+MODEL\admin.class
+MODEL\staff.class
+MODEL\guard.class
+com\mycompany\segumas\resources\JakartaEE10Resource.class
+com\mycompany\segumas\JakartaRestConfiguration.class
+DAO\loginDAO.class
+DAO\guardDAO.class
+WEB\manageHrStaffServlet.class
